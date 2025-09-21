@@ -37,6 +37,4 @@ El archivo contiene la lógica del proyecto, organizada en funciones:
 - `sortearAmigo()` → selecciona aleatoriamente un amigo secreto.  
 - `mostrarMensaje()` → muestra mensajes dinámicos en la interfaz.
 
----
 
-## 📂 Estructura del proyecto
