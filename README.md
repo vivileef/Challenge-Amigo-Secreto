@@ -8,7 +8,7 @@ El objetivo es practicar lógica de programación, estructuras de datos, condici
 ## 🚀 Tecnologías utilizadas
 - **HTML5** → estructura de la página.  
 - **CSS3** → estilos y diseño.  
-- **JavaScript (Vanilla)** → lógica del programa, manipulación del DOM y dinámicas de interacción.  
+- **JavaScript**→ lógica del programa, manipulación del DOM y dinámicas de interacción.  
 
 ---
 
